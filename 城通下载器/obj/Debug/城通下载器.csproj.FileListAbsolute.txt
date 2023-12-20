@@ -1,0 +1,17 @@
+D:\Projects\诚通网盘\城通下载器\bin\Debug\城通下载器.exe.config
+D:\Projects\诚通网盘\城通下载器\bin\Debug\城通下载器.exe
+D:\Projects\诚通网盘\城通下载器\bin\Debug\城通下载器.pdb
+D:\Projects\诚通网盘\城通下载器\obj\Debug\城通下载器.csproj.AssemblyReference.cache
+D:\Projects\诚通网盘\城通下载器\obj\Debug\城通下载器.Form1.resources
+D:\Projects\诚通网盘\城通下载器\obj\Debug\城通下载器.Properties.Resources.resources
+D:\Projects\诚通网盘\城通下载器\obj\Debug\城通下载器.csproj.GenerateResource.cache
+D:\Projects\诚通网盘\城通下载器\obj\Debug\城通下载器.csproj.CoreCompileInputs.cache
+D:\Projects\诚通网盘\城通下载器\obj\Debug\城通下载器.exe
+D:\Projects\诚通网盘\城通下载器\obj\Debug\城通下载器.pdb
+D:\Projects\诚通网盘\城通下载器\obj\Debug\城通下载器.Setting.resources
+D:\Projects\诚通网盘\城通下载器\bin\Debug\ctdisk.dll
+D:\Projects\诚通网盘\城通下载器\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\诚通网盘\城通下载器\bin\Debug\ctdisk.pdb
+D:\Projects\诚通网盘\城通下载器\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\诚通网盘\城通下载器\obj\Debug\城通下载器.csproj.CopyComplete
+D:\Projects\诚通网盘\城通下载器\obj\Debug\城通下载器.AddUrl.resources

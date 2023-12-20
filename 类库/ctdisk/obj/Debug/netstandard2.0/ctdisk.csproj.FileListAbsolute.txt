@@ -1,0 +1,10 @@
+D:\Projects\诚通网盘\类库\ctdisk\bin\Debug\netstandard2.0\ctdisk.deps.json
+D:\Projects\诚通网盘\类库\ctdisk\bin\Debug\netstandard2.0\ctdisk.dll
+D:\Projects\诚通网盘\类库\ctdisk\bin\Debug\netstandard2.0\ctdisk.pdb
+D:\Projects\诚通网盘\类库\ctdisk\obj\Debug\netstandard2.0\ctdisk.csproj.AssemblyReference.cache
+D:\Projects\诚通网盘\类库\ctdisk\obj\Debug\netstandard2.0\ctdisk.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\诚通网盘\类库\ctdisk\obj\Debug\netstandard2.0\ctdisk.AssemblyInfoInputs.cache
+D:\Projects\诚通网盘\类库\ctdisk\obj\Debug\netstandard2.0\ctdisk.AssemblyInfo.cs
+D:\Projects\诚通网盘\类库\ctdisk\obj\Debug\netstandard2.0\ctdisk.csproj.CoreCompileInputs.cache
+D:\Projects\诚通网盘\类库\ctdisk\obj\Debug\netstandard2.0\ctdisk.dll
+D:\Projects\诚通网盘\类库\ctdisk\obj\Debug\netstandard2.0\ctdisk.pdb
